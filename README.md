@@ -39,7 +39,7 @@ Each repository is intentionally scoped and documented to explain *why* a design
 
 I write about AWS and applied GenAI to clarify my own thinking and share practical lessons:
 
-* Medium: [https://medium.com/@katevu](https://medium.com/@katevu3)
+* Medium: [https://medium.com/@katevu3](https://medium.com/@katevu3)
 * LinkedIn: [https://www.linkedin.com/in/katevu](https://www.linkedin.com/in/katevu)
 
 ---
